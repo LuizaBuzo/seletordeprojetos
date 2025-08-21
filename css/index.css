@@ -27,6 +27,9 @@ color:#f4e79f;
 .cor1 a:active{
     color:#f4e79f;
 }
+.cor1 a:focus{
+    color: #f4e79f;
+}
 
 /* ------------------------------ */
 
@@ -38,6 +41,10 @@ color:#f4e79f;
     color: white;
 }
 
+.cards a:focus{
+    color: #c8ec8d;
+}
+
 /* ------------------------------ */
 
 .cor2{
@@ -47,6 +54,10 @@ color:#f4e79f;
 .cor2 a{
     color:#ffffff;
 }
+
+.cor2 a:focus{
+    color: #e2ebfc;
+}
 /* ------------------------------ */
 #pagina1{
     width: 100vw;
@@ -54,14 +65,7 @@ color:#f4e79f;
 }
 /* ------------------------------ */
 
-.cor3{
-    background-image: linear-gradient(to right, #955be0, #75b9f8, #67f9e1, #75eab3, #b7f49f) !important;
-}
-.cor3 a{
-    color: white;
-}
-.cor3 a:hover{
-color:#9feaf4;
-}
-.cor3 a:active{
-    color:#9ff4ad;}
+
+
+
+    
