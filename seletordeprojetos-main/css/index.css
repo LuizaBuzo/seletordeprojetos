@@ -1,0 +1,71 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+#cabecalho{
+    height: 15vh;
+    width: 100vw;
+}
+
+body{
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+/* ------------------------------ */
+
+.cor1{
+    background-image: linear-gradient(to right, #e05b90, #f87b75, #f9a567, #eace75, #d3f49f) !important;
+}
+.cor1 a{
+    color: white;
+}
+.cor1 a:hover{
+color:#f4e79f;
+}
+.cor1 a:active{
+    color:#f4e79f;
+}
+.cor1 a:focus{
+    color: #f4e79f;
+}
+
+/* ------------------------------ */
+
+.cards a:hover{
+    color: white;
+    background-color: #c8ec8d;
+}
+.cards b:hover{
+    color: white;
+}
+
+.cards a:focus{
+    color: #c8ec8d;
+}
+
+/* ------------------------------ */
+
+.cor2{
+    background-image: linear-gradient(to right, #fccce8, #edcdfc,#c4d9f8,#c3f1f7,#e9ffc7, #eaffc3) !important;
+}
+
+.cor2 a{
+    color:#ffffff;
+}
+
+.cor2 a:focus{
+    color: #e2ebfc;
+}
+/* ------------------------------ */
+#pagina1{
+    width: 100vw;
+    height: auto;
+}
+/* ------------------------------ */
+
+
+
+
+    
